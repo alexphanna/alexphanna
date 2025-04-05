@@ -6,4 +6,6 @@
 
 #
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg">
+<a href="https://apps.apple.com/us/app/ru-eating/id6692608792?platform=iphone">
+  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg">
+</a>
