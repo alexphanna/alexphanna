@@ -2,7 +2,7 @@
 
 💿 ╱ cs student at **rutgers-new brunswick**
 
-📀 ╱ **swiftui** ios developer
+📀 ╱ **swiftui** and **flutter** developer
 
 #
 
