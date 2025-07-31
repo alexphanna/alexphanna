@@ -1,6 +1,6 @@
 # [𝙖𝙡𝙚𝙭 𝙝𝙖𝙣𝙣𝙖](https://alexphanna.github.io/) 
 
-💿 ╱ cs student at **rutgers-new brunswick**
+💿 ╱ cs student at **penn state**
 
 📀 ╱ **swiftui** and **flutter** developer
 
