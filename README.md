@@ -1,8 +1,10 @@
-# [𝙖𝙡𝙚𝙭 𝙝𝙖𝙣𝙣𝙖](https://alexphanna.github.io/) 
+# [𝙖𝙡𝙚𝙭 𝙝𝙖𝙣𝙣𝙖](https://alexphanna.github.io/resume.pdf) 
 
 💿 ╱ cs student at **penn state**
 
 📀 ╱ **swiftui** and **flutter** developer
+
+💿 ╱ **nixos** user
 
 #
 
